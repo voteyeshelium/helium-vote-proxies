@@ -31,6 +31,7 @@ First, add the proxy to to `proxies.json`. Each proxy should have the following 
 | image | A profile picture for the proxy. This will be displayed in the proxy discovery UI and in search. This should be a file path to the jpeg or png. |
 | description | A short description of the proxy. This will be displayed in the proxy discovery UI
 | detail | A filepath to a markdown file containing a more detailed biography of the proxy. This should describe voting philosophies, and any other relevant information to those choosing to delegate. This will be displayed in the proxy discovery UI
+| networks | An array of networks you participate in votes for
 
 ## Example
 
