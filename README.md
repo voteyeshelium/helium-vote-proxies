@@ -1,26 +1,22 @@
-# helium-vote-proxies
-
-Definitions of public wallets available for Proxy Voting
-
-## What is a Voting Proxy?
+# What is a Voting Proxy?
 
 A voting proxy is a wallet that can vote on behalf of others. A voter can choose to assign their votes to a given proxy.
 
 An example of this would be assigning your voting power to your friend who knows more about Helium. 
 
-### What is Recursive Assignment?
+## What is Recursive Assignment?
 
 A proxy voter can assign all of their votes to another proxy. So, for example, you could assign your votes to a friend who assigns those votes to a neighbor. Vote assignments form a chain of trust, and in the ideal case concentrate voting power around knowledgeable and trusted individuals.
 
-### Can I override Proxy Votes?
+## Can I override Proxy Votes?
 
 Yes! If you do not like the vote your proxy makes, you can always override it. You can also revoke the assignment at any time!
 
-### Seasons
+## Seasons
 
 Proxy voting is split up in yearly seasons, similar to government election cycles. All proxies are reset on August 1st. This ensures that proxies must work to keep their voting power, and voters must reevaluate their assignments yearly.
 
-## Adding a Proxy
+# Adding a Proxy
 
 To add a proxy, fork this repository and make a pull request containing the following:
 
@@ -29,14 +25,14 @@ To add a proxy, fork this repository and make a pull request containing the foll
 
 First, add the proxy to to `proxies.json`. Each proxy should have the following properties:
 
-## | Property | Description |
-
+| Property | Description |
+--------------------------
 | name | The name of the proxy. This could be the name of a person, or a voting entity. |
 | image | A profile picture for the proxy. This will be displayed in the proxy discovery UI and in search. This should be a file path to the jpeg or png. |
 | description | A short description of the proxy. This will be displayed in the proxy discovery UI
 | detail | A filepath to a markdown file containing a more detailed biography of the proxy. This should describe voting philosophies, and any other relevant information to those choosing to delegate. This will be displayed in the proxy discovery UI
 
-### Example
+## Example
 
 You can see the `example` proxy listed in `proxies.json` as follows:
 
