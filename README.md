@@ -26,7 +26,7 @@ To add a proxy, fork this repository and make a pull request containing the foll
 First, add the proxy to to `proxies.json`. Each proxy should have the following properties:
 
 | Property | Description |
---------------------------
+|----------|-------------|
 | name | The name of the proxy. This could be the name of a person, or a voting entity. |
 | image | A profile picture for the proxy. This will be displayed in the proxy discovery UI and in search. This should be a file path to the jpeg or png. |
 | description | A short description of the proxy. This will be displayed in the proxy discovery UI
