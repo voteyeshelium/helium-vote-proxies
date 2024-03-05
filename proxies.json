@@ -2,9 +2,9 @@
   {
     "wallet": "ex1iPHN3wCAUSwPrNENvxMW1w6ggZRQwYUmQwmAn646",
     "name": "Example Proxy",
-    "image": "./example/image.png",
+    "image": "./proxies/example/image.png",
     "description": "Example proxy voter",
-    "detail": "./example/detail.md",
+    "detail": "./proxies/example/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
   }
 ]
