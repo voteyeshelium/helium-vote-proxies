@@ -6,5 +6,13 @@
     "description": "Example proxy voter",
     "detail": "./proxies/example/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
+    "wallet": "FEREBEE69Lu83YuxB73yUp1w6onRgRCNPgwrLLnwATLd",
+    "name": "ferebee",
+    "image": "./proxies/ferebee/image.png",
+    "description": "Chris Ferebee",
+    "detail": "./proxies/ferebee/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
   }
 ]
