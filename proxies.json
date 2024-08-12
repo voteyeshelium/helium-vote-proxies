@@ -30,5 +30,13 @@
     "description": "Empowering the next generation of networks.",
     "detail": "./proxies/jd/detail.md",
     "networks": ["HNT", "MOBILE"]
+  },
+  {
+    "wallet": "2vUjYrkqN1HBccbhfMQFW2E7pDynPbtbHKNgAJLdwdzT",
+    "name": "samgutentag",
+    "image": "./proxies/samgutentag/image.png",
+    "description": "Sam Gutentag",
+    "detail": "./proxies/samgutentag/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
   }
 ]
