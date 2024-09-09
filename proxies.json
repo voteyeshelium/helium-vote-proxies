@@ -38,5 +38,13 @@
     "description": "LF5G.",
     "detail": "./proxies/Lnjenkins/detail.md",
     "networks": ["MOBILE"]
+  },
+  {
+    "wallet": "5MXQLMxjUQFyZWk2Kpe5GdhsjBnQoLypjpcTTyeUXEtd",
+    "name": "AndrewsMD",
+    "image": "./proxies/AndrewsMD/image.png",
+    "description": "AndrewsMD",
+    "detail": "./proxies/AndrewsMD/detail.md",
+    "networks": ["HNT", "IOT", "MOBILE"]
   }
 ]
