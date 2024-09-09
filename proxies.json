@@ -33,9 +33,9 @@
   },
     {
     "wallet": "5UgjWg285kvufDMaMK33jEYhEG4vACp2z4j1yutdm65P",
-    "name": “Lnjenkins”,
+    "name": "Lnjenkins",
     "image": "./proxies/Lnjenkins/image.png",
-    "description": “LF5G.”,
+    "description": "LF5G.",
     "detail": "./proxies/Lnjenkins/detail.md",
     "networks": ["MOBILE"]
   }
