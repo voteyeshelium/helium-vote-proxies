@@ -1,13 +1,5 @@
 [
   {
-    "wallet": "exmrL4U6vk6VFoh3Q7fkrPbjpNLHPYFf1J8bqGypuiK",
-    "name": "Example Proxy",
-    "image": "./proxies/example/image.png",
-    "description": "Example proxy voter",
-    "detail": "./proxies/example/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
-  },
-  {
     "wallet": "FEREBEE69Lu83YuxB73yUp1w6onRgRCNPgwrLLnwATLd",
     "name": "ferebee",
     "image": "./proxies/ferebee/image.png",

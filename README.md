@@ -37,7 +37,7 @@ First, add the proxy to the [proxies.json](/proxies.json) file. Each proxy shoul
 
 ## Example
 
-You can see the `example` proxy listed in [proxies.json](/proxies.json) as follows:
+You can see examples of other proxies listed in [proxies.json](/proxies.json). The format is as follows:
 
 ```
 {
