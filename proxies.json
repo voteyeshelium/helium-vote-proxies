@@ -50,7 +50,7 @@
   {
     "wallet": "CSSFGF69WQzHdRd2u1hZ2vKf54yzZ5hxvJhnYSB8KXJh",
     "name": "workingtitle",
-    "image": "./proxies/WorkingTitle/PNG_E65EC39C-DAB5-4C2A-A82F-0CF580297514.png",
+    "image": "./proxies/WorkingTitle/image.png",
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
