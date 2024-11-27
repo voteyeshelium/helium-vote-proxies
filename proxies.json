@@ -16,14 +16,6 @@
     "networks": ["HNT", "MOBILE"]
   },
   {
-    "wallet": "2yC8JxPYBv7DACFZsyuDLpb5DHvAiizXkkEAKv9DW2Hb",
-    "name": "JD",
-    "image": "./proxies/jd/image.png",
-    "description": "Empowering the next generation of networks.",
-    "detail": "./proxies/jd/detail.md",
-    "networks": ["HNT", "MOBILE"]
-  },
-  {
     "wallet": "2vUjYrkqN1HBccbhfMQFW2E7pDynPbtbHKNgAJLdwdzT",
     "name": "samgutentag",
     "image": "./proxies/samgutentag/image.png",
