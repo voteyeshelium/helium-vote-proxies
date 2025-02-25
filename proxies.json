@@ -46,5 +46,13 @@
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
+    "wallet": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
+    "name": "Bones",
+    "image": "./proxies/Bones/image.jpg",
+    "description": "Bones | wdriot.com",
+    "detail": "./proxies/Bones/detail.md",
+    "networks": ["HNT", "IOT"]
   }
 ]
