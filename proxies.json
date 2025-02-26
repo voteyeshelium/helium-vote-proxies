@@ -70,7 +70,7 @@
     "description": "Nova Labs",
     "detail": "./proxies/NovaLabs/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
-  }
+  },
   {
     "wallet": "CCUWF8sALfvVtv1EvKwuM4p7ZgUWvsrKVzQfFGmBz6pa",
     "name": "Keith Rettig (KeithR)",
