@@ -48,6 +48,14 @@
     "networks": ["HNT", "MOBILE", "IOT"]
   },
   {
+    "wallet": "3dMfWtxjU67HTgKEubo5W7Y5PYBrpTdzLgmDCQb7gFJM",
+    "name": "danggo",
+    "image": "./proxies/danggo/image.png",
+    "description": "danggo",
+    "detail": "./proxies/danggo/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
     "wallet": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
     "name": "Bones",
     "image": "./proxies/Bones/image.jpg",
