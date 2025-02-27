@@ -5,7 +5,7 @@
     "image": "./proxies/ferebee/image.png",
     "description": "Chris Ferebee",
     "detail": "./proxies/ferebee/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "84Q9QQ1DeqsbeBMiaKuh2Vk1wrfKirkZXBrTKyLL2apU",
@@ -13,7 +13,7 @@
     "image": "./proxies/jaym2518/image.png",
     "description": "Jay M.",
     "detail": "./proxies/jaym2518/detail.md",
-    "networks": ["HNT", "MOBILE"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "2vUjYrkqN1HBccbhfMQFW2E7pDynPbtbHKNgAJLdwdzT",
@@ -21,7 +21,7 @@
     "image": "./proxies/samgutentag/image.png",
     "description": "Sam Gutentag",
     "detail": "./proxies/samgutentag/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
     {
     "wallet": "5UgjWg285kvufDMaMK33jEYhEG4vACp2z4j1yutdm65P",
@@ -29,7 +29,7 @@
     "image": "./proxies/Lnjenkins/image.png",
     "description": "LF5G.",
     "detail": "./proxies/Lnjenkins/detail.md",
-    "networks": ["MOBILE"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "5MXQLMxjUQFyZWk2Kpe5GdhsjBnQoLypjpcTTyeUXEtd",
@@ -37,7 +37,7 @@
     "image": "./proxies/AndrewsMD/image.png",
     "description": "AndrewsMD",
     "detail": "./proxies/AndrewsMD/detail.md",
-    "networks": ["HNT", "IOT", "MOBILE"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "CSSFGF69WQzHdRd2u1hZ2vKf54yzZ5hxvJhnYSB8KXJh",
@@ -45,7 +45,7 @@
     "image": "./proxies/WorkingTitle/image.png",
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "3dMfWtxjU67HTgKEubo5W7Y5PYBrpTdzLgmDCQb7gFJM",
@@ -53,7 +53,7 @@
     "image": "./proxies/danggo/image.png",
     "description": "danggo",
     "detail": "./proxies/danggo/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
@@ -61,7 +61,7 @@
     "image": "./proxies/Bones/image.jpg",
     "description": "Bones | wdriot.com",
     "detail": "./proxies/Bones/detail.md",
-    "networks": ["HNT", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "9DfBwcpMyAAyySPmkNwfmUhshYui4KJEkLS9EN8twv68",
@@ -69,7 +69,7 @@
     "image": "./proxies/NovaLabs/image.png",
     "description": "Nova Labs",
     "detail": "./proxies/NovaLabs/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   },
   {
     "wallet": "CCUWF8sALfvVtv1EvKwuM4p7ZgUWvsrKVzQfFGmBz6pa",
@@ -77,6 +77,6 @@
     "image": "./proxies/KeithRettig/image.png",
     "description": "Keith Rettig",
     "detail": "./proxies/KeithRettig/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT"]
   }
 ]
