@@ -4,7 +4,7 @@
     "name": "I Vote Yes",
     "image": "./proxies/vote-yes/IVoteYes.png",
     "description": "I Vote Yes",
-    "detail": "./proxies/voteyes/detail.md",
+    "detail": "./proxies/vote-yes/detail.md",
     "networks": ["HNT"]
   },  
 {
